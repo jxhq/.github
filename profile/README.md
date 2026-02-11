@@ -29,6 +29,8 @@
 JXHQ is a **central hub for personal and remote projects**, designed for deploying apps, experimenting with new tech, and collaborating with contributors.  
 Most projects here run on **CapRover + Docker**, leveraging modern web stacks and scalable architecture.  
 
+Discord: [Link to Discord](https://discord.gg/Ke75dv4ywN)
+
 ---
 
 ### 🧠 Tech Toolbox
